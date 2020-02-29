@@ -1,4 +1,4 @@
-drop table if exists suppliers;
+--drop table if exists suppliers;
 create table if not exists suppliers
 (
     id   int     not null primary key AUTO_INCREMENT,
